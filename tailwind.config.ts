@@ -13,6 +13,7 @@ const config: Config = {
         bgSidebar: "var(--bgSidebar)",
         bgCard: "var(--bgCard)",
         accentColor: "var(--accentColor)",
+        textPrimary: "var(--textPrimary)",
       },
     },
   },

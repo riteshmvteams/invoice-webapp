@@ -1,3 +1,3 @@
-export default function Home() {
-  return <div className="text-3xl underline">hello world</div>;
+export default function HomePage() {
+  return <div>HomePage</div>;
 }
