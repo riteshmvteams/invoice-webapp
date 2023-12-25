@@ -9,3 +9,19 @@
   --accentColor: #7c5dfa;
   --textPrimary: #fff;
 }
+
+.dark {
+  --bgPrimary: #141625;
+  --bgSidebar: #252945;
+  --bgCard: #1e2139;
+  --accentColor: #7c5dfa;
+  --textPrimary: #fff;
+}
+
+.light {
+  --bgPrimary: #f8f8fb;
+  --bgSidebar: #252945;
+  --bgCard: #fff;
+  --accentColor: #7c5dfa;
+  --textPrimary: #141625;
+}
